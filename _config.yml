@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate 
+title: legionpool4ever
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+ #theme: jekyll-theme-slate
+
