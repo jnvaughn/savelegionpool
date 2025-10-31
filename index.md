@@ -1,11 +1,11 @@
 ### LegionPool4Ever
-<a href="./plrg/plrg"> <img src="./tiles/plrg.png"> </a>
+<a href="./plrg/plrg"> <img src="./tiles/LP_4_16.jpg"> </a>
 
 ### History
-<a href="./history/History"> <img src="./tiles/mmVaughnTile.jpg"> </a>
+<a href="./history/History"> <img src="./tiles/LP_4_16.jpg"> </a>
 
 ### Testimonials
-<a href="./testimonials/testimonials"> <img src="./tiles/surfaceArtTiles.jpg"> </a>
+<a href="./testimonials/Testimonials"> <img src="./tiles/LP_4_16.jpg"> </a>
 
 <p> <br /> </p>
 
